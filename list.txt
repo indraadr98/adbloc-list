@@ -1,2 +1,6 @@
 d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
+d3ward.github.io##.textads^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^^
+||analytics.s3.amazonaws.com^^
+||advice-ads.s3.amazonaws.com^^
